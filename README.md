@@ -4,5 +4,19 @@ Welcome, check us out click [here](https://github.com/peculiaruc/HngZuriProject/
 <img src="https://github.com/dev-juri/hngi8_task2/blob/main/hng.jpeg" alt="Icon"/>
 
 ##Project
+<table>
+  <tr>
+    <td>
 
-<img src="https://github.com/peculiaruc/HngZuriProject/blob/master/recording/device-2021-08-19-030736.mp4" alt="Icon"/>
+   ![Slide](https://github.com/peculiaruc/HngZuriProject/blob/master/recording/device-2021-08-19-030736.mp4)
+    </td>
+
+   <td>
+
+   ![Slide](https://appetize.io/app/f217r3263gkh1nky8x2qtn0xd8?device=nexus5&scale=75&orientation=portrait&osVersion=8.1)
+       </td>
+   </tr>
+   </table>
+
+
+
