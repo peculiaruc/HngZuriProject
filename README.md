@@ -20,6 +20,9 @@ Welcome, check us out [here](https://internship.zuri.team/)
    </table>
 
 ##Project
+
+<img src="https://github.com/dev-juri/hngi8_task2/blob/main/recording.gif" alt="Icon"/>
+
 <table>
   <tr>
     <td>
