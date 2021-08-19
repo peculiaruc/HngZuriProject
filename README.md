@@ -24,15 +24,19 @@ Welcome, check us out [here](https://internship.zuri.team/)
 
 <img src="https://github.com/peculiaruc/HngZuriProject/blob/master/recording/device-2021-08-19-030736.mp4" alt="Icon"/>
 
+
 <table>
   <tr>
-    <td>
 
-  ![Slide](https://github.com/peculiaruc/HngZuriProject/blob/master/recording/device-2021-08-19-030736.mp4.gif)
-    </td>
+   <td>
+
+  ![Screen](https://github.com/peculiaruc/WineShop/blob/master/screenshops/device-2021-06-18-034518.png)
+
+</td>
 
    </tr>
    </table>
 
-   Hosted app [here](https://appetize.io/app/f217r3263gkh1nky8x2qtn0xd8?device=nexus5&scale=75&orientation=portrait&osVersion=8.1)
+   Hosted app @ appetize.io [here](https://appetize.io/app/f217r3263gkh1nky8x2qtn0xd8?device=nexus5&scale=75&orientation=portrait&osVersion=8.1)
+
 
