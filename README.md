@@ -14,5 +14,5 @@ Welcome, check us out [here](https://github.com/peculiaruc/HngZuriProject/blob/m
    </tr>
    </table>
 
-More about the app [here](https://appetize.io/app/f217r3263gkh1nky8x2qtn0xd8?device=nexus5&scale=75&orientation=portrait&osVersion=8.1)
+   Hosted app [here](https://appetize.io/app/f217r3263gkh1nky8x2qtn0xd8?device=nexus5&scale=75&orientation=portrait&osVersion=8.1)
 
