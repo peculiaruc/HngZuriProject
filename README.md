@@ -5,7 +5,8 @@ Welcome, check us out [here](https://internship.zuri.team/)
 <table>
   <tr>
 
-    <td>
+   <td>
+
 <img src="https://github.com/peculiaruc/HngZuriProject/blob/master/screenshot/hng.png" alt="Icon"/>
 
 </td>
@@ -21,7 +22,7 @@ Welcome, check us out [here](https://internship.zuri.team/)
 
 ##Project
 
-<img src="https://github.com/dev-juri/hngi8_task2/blob/main/recording.gif" alt="Icon"/>
+<img src="https://github.com/peculiaruc/HngZuriProject/blob/master/recording/device-2021-08-19-030736.mp4" alt="Icon"/>
 
 <table>
   <tr>
