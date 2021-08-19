@@ -1,6 +1,6 @@
 # HngZuriProject
 
-Welcome, check us out click [here](https://internship.zuri.team)
+Welcome, check us out click [here](https://github.com/peculiaruc/HngZuriProject/tree/master/screenshot)
 <img src="https://github.com/dev-juri/hngi8_task2/blob/main/hng.jpeg" alt="Icon"/>
 
 ##Project
