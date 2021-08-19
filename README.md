@@ -33,6 +33,15 @@ Welcome, check us out [here](https://internship.zuri.team/)
   ![Screen](https://github.com/peculiaruc/HngZuriProject/blob/master/screenshot/device-2021-08-19-055913.png)
 
 </td>
+  <td>
+
+   <td>
+
+   ![Screen](https://appetize.io/app/f217r3263gkh1nky8x2qtn0xd8?device=nexus5&scale=75&orientation=portrait&osVersion=8.1)
+
+   </td>
+
+</td>
    </tr>
    </table>
 
