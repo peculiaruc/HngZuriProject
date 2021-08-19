@@ -20,21 +20,12 @@ Welcome, check us out [here](https://internship.zuri.team/)
    </tr>
    </table>
 
+
 ##Project
 
-<img src="https://github.com/peculiaruc/HngZuriProject/blob/master/recording/device-2021-08-19-030736.mp4" alt="Icon"/>
+<img src="https://github.com/peculiaruc/HngZuriProject/blob/master/recording.gif" alt="Icon"/>
 
 
-<table>
-  <tr>
-
-   <td>
-
-  ![Screen](https://github.com/peculiaruc/HngZuriProject/blob/master/screenshot/device-2021-08-19-055913.png)
-
-</td>
-   </tr>
-   </table>
 
    Hosted app @ appetize.io [here](https://appetize.io/app/f217r3263gkh1nky8x2qtn0xd8?device=nexus5&scale=75&orientation=portrait&osVersion=8.1)
 
