@@ -27,6 +27,10 @@ Welcome, check us out [here](https://internship.zuri.team/)
 
 
 
+## Task 2: Number 2
+
+  A name [Here](https://pl.kotl.in/AGluEnNO8)
+
    Hosted app @ appetize.io [here](https://appetize.io/app/f217r3263gkh1nky8x2qtn0xd8?device=nexus5&scale=75&orientation=portrait&osVersion=8.1)
 
 
