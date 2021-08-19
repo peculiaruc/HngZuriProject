@@ -30,7 +30,7 @@ Welcome, check us out [here](https://internship.zuri.team/)
 
    <td>
 
-  ![Screen](https://github.com/peculiaruc/WineShop/blob/master/screenshops/device-2021-06-18-034518.png)
+  ![Screen]()
 
 </td>
 
