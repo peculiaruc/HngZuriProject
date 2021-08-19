@@ -1,9 +1,23 @@
 # HngZuriProject
 
 Welcome, check us out [here](https://internship.zuri.team/)
+
+<table>
+  <tr>
+
+    <td>
 <img src="https://github.com/peculiaruc/HngZuriProject/blob/master/screenshot/hng.png" alt="Icon"/>
+
+</td>
+
+<td>
+
 <img src="https://github.com/peculiaruc/HngZuriProject/blob/master/screenshot/zuri_i4g.png" alt="Icon"/>
 
+ </td>
+
+   </tr>
+   </table>
 
 ##Project
 <table>
