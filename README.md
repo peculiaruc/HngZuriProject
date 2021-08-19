@@ -33,7 +33,6 @@ Welcome, check us out [here](https://internship.zuri.team/)
   ![Screen](https://github.com/peculiaruc/HngZuriProject/blob/master/screenshot/device-2021-08-19-055913.png)
 
 </td>
-
    </tr>
    </table>
 
